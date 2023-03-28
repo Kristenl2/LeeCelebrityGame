@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a39216ed-00cf-4842-8e05-b2d89f625110" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeeCelebrityGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Celebrity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
+    <list default="true" id="a39216ed-00cf-4842-8e05-b2d89f625110" name="Changes" comment="oijilj">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/student/IdeaProjects/LeeCelebrityGame",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -69,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679924853409</updated>
     </task>
+    <task id="LOCAL-00001" summary="oijilj">
+      <created>1679928096612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679928096612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oijilj" />
+    <option name="LAST_COMMIT_MESSAGE" value="oijilj" />
   </component>
 </project>
